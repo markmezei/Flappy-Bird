@@ -9,3 +9,25 @@ C:\Users\Mark\Documents\Programozás\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bi
 C:\Users\Mark\Documents\Programozás\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
 C:\Users\Mark\Documents\Programozás\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
 C:\Users\Mark\Documents\Programozás\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\bin\Debug\Flappy Bird.exe.config
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\bin\Debug\Flappy Bird.exe
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\bin\Debug\Flappy Bird.pdb
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy_Bird.FlappyBird.resources
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.exe
+C:\Users\Mark\Documents\Programozás\Flappy-Bird-main\obj\Debug\Flappy Bird.pdb
+C:\Users\Mark\Documents\Programozás\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\Mark\Documents\Programozás\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\Mark\Documents\Programozás\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy_Bird.FlappyBird.resources
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\Mark\Documents\Programozás\Flappy Bird\obj\Debug\Flappy Bird.pdb

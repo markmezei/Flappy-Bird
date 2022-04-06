@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -19,6 +20,11 @@ namespace Flappy_Bird
         public FlappyBird(){
             InitializeComponent();
             Timer.Start();
+        }
+
+        private void SoundEffect(){
+            SoundPlayer sound = new SoundPlayer(@"C:\Users\Mark\Documents\Programozás\Flappy Bird\Resources\EZ sound effect.wav");
+            sound.Play();
         }
 
         private void FlappyBird_KeyDown(object sender, KeyEventArgs key){
@@ -50,11 +56,12 @@ namespace Flappy_Bird
             if (PipeDown.Left < -130){
                 PipeDown.Left = 800;
                 score++;
+                SoundEffect();
             }
             if (PipeUp.Left < -130){
                 PipeUp.Left = 800;
             }
-            if (Bird.Bounds.IntersectsWith(PipeDown.Bounds) || Bird.Bounds.IntersectsWith(PipeUp.Bounds) || Bird.Bounds.IntersectsWith(Ground.Bounds) || Bird.Top < -15){
+            if (Bird.Bounds.IntersectsWith(PipeDown.Bounds) || Bird.Bounds.IntersectsWith(PipeUp.Bounds) || Bird.Bounds.IntersectsWith(Ground.Bounds) || Bird.Top < -30){
                 GameOver();
             }
             if (score >= 5){

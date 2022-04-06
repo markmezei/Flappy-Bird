@@ -81,10 +81,10 @@
             // Bird
             // 
             this.Bird.Image = global::Flappy_Bird.Properties.Resources.bird;
-            this.Bird.Location = new System.Drawing.Point(79, 206);
+            this.Bird.Location = new System.Drawing.Point(85, 206);
             this.Bird.Name = "Bird";
-            this.Bird.Size = new System.Drawing.Size(80, 60);
-            this.Bird.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.Bird.Size = new System.Drawing.Size(74, 58);
+            this.Bird.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Bird.TabIndex = 2;
             this.Bird.TabStop = false;
             // 
