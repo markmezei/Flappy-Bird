@@ -44,7 +44,7 @@ namespace Flappy_Bird
 
         private void GameOver(){
             Timer.Stop();
-            gameScore.Text += " \nGAME OVER!!! YOU ARE FUCKING BAD!";
+            gameScore.Text += " \nGAME OVER!!! KURVA SZAR VAGY!";
         }
 
         private void gameEngine(object sender, EventArgs e){
